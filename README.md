@@ -27,6 +27,12 @@ Type ifconfig and press Enter:-
              nmap -sS 172.16.10.0/24
 ![Image](https://github.com/user-attachments/assets/b4bbba65-185b-4ba4-bf3f-c724c0e83f5a)
 
+
+#### Scanning for Specific Ports:-
+To scan for specific ports (e.g., HTTP port 80), use the -p:-
+
+           nmap -p 80 172.16.10.0/24
+
 ### Zenmap Scan:- 
  To run Zenmap:-
  
