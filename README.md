@@ -25,6 +25,7 @@ Type ifconfig and press Enter:-
 
 ### Perform TCP SYN Scan:-
              nmap -sS 172.16.10.0/24
+             
 ![Image](https://github.com/user-attachments/assets/b4bbba65-185b-4ba4-bf3f-c724c0e83f5a)
 
 
@@ -32,7 +33,8 @@ Type ifconfig and press Enter:-
 To scan for specific ports (e.g., HTTP port 80), use the -p:-
 
            nmap -p 80 172.16.10.0/24
-
+           
+![Image](https://github.com/user-attachments/assets/b3b93cc8-bb40-4c63-9c08-e933ac4ef1e6)
 ### Zenmap Scan:- 
  To run Zenmap:-
  
@@ -53,6 +55,7 @@ Open your web browser and navigate to a website that uses HTTP (e.g., http://exa
 Let the page load completely and then stop the capture in Wireshark by clicking on the red square icon.
 
 ![Image](https://github.com/user-attachments/assets/1efb567d-4796-4f9b-bbf1-97f1d165781e)
+
 ### Filter HTTP Traffic:-
 Steps:-
 In Wireshark, go to the filter bar at the top.
@@ -60,5 +63,6 @@ In Wireshark, go to the filter bar at the top.
 Enter the filter http and press Enter.
 
 Wireshark will display only the HTTP traffic from the capture.
+
 ![Image](https://github.com/user-attachments/assets/87441148-a272-4644-bdf6-96e2aea932b8)
 
