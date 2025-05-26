@@ -24,12 +24,10 @@ Type ifconfig and press Enter:-
              nmap 172.16.10.0/24
 
 ### Perform TCP SYN Scan:-
-             nmap -sS 172.16.10.0/24 
-
-
-
-
-
-
-
+             nmap -sS 172.16.10.0/24
 ![Image](https://github.com/user-attachments/assets/b4bbba65-185b-4ba4-bf3f-c724c0e83f5a)
+
+### Zenmap Scan:- 
+ To run Zenmap:-
+ 
+             sudo zenmap
