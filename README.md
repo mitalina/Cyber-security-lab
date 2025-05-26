@@ -33,9 +33,26 @@ Type ifconfig and press Enter:-
              sudo zenmap
 ![Image](https://github.com/user-attachments/assets/c8a4b3e2-f2a3-4f2a-8aff-32cc16568799)
 
-Wireshark:-
+##  Wireshark:-
+### Capture HTTP Traffic:-
+Steps:-
+Open Wireshark.
+
+Select the network interface that connects to the internet.
+
+Click on the "Start Capture" button.
+
+Open your web browser and navigate to a website that uses HTTP (e.g., http://example.com).
+
+Let the page load completely and then stop the capture in Wireshark by clicking on the red square icon.
 
 ![Image](https://github.com/user-attachments/assets/1efb567d-4796-4f9b-bbf1-97f1d165781e)
+### Filter HTTP Traffic:-
+Steps:-
+In Wireshark, go to the filter bar at the top.
 
+Enter the filter http and press Enter.
+
+Wireshark will display only the HTTP traffic from the capture.
 ![Image](https://github.com/user-attachments/assets/87441148-a272-4644-bdf6-96e2aea932b8)
 
