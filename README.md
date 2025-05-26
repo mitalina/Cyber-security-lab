@@ -31,3 +31,5 @@ Type ifconfig and press Enter:-
  To run Zenmap:-
  
              sudo zenmap
+![Image](https://github.com/user-attachments/assets/c8a4b3e2-f2a3-4f2a-8aff-32cc16568799)
+
