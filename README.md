@@ -20,12 +20,14 @@ Type ifconfig and press Enter:-
            ifconfig
 ![Image](https://github.com/user-attachments/assets/74e5ed5c-c717-468c-af82-53869ae2ad93)           
 
-    
+### Basic Network Scan:-
+             nmap 172.16.10.0/24
+
+### Perform TCP SYN Scan:-
+             nmap -sS 172.16.10.0/24 
 
 
 
-
-Basic Network Scan
 
 
 
