@@ -6,7 +6,7 @@
 Objective: Learn to discover open ports on devices in your local network to understand network exposure.
 
 Tools used:-1> Network Scanning :-Nmap/ Zenmap    
-           2> Packet Captures:- Wireshak
+            2> Packet Captures:- Wireshark
 
 
 ## Installation
