@@ -33,3 +33,9 @@ Type ifconfig and press Enter:-
              sudo zenmap
 ![Image](https://github.com/user-attachments/assets/c8a4b3e2-f2a3-4f2a-8aff-32cc16568799)
 
+Wireshark:-
+
+![Image](https://github.com/user-attachments/assets/1efb567d-4796-4f9b-bbf1-97f1d165781e)
+
+![Image](https://github.com/user-attachments/assets/87441148-a272-4644-bdf6-96e2aea932b8)
+
