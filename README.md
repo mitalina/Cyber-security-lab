@@ -18,6 +18,7 @@ Nmap is pre-installed on Kali Linux. You can verify the installation or update i
 Type ifconfig and press Enter:-
           
            ifconfig
+![Image](https://github.com/user-attachments/assets/74e5ed5c-c717-468c-af82-53869ae2ad93)           
 
     
 
